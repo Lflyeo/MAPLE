@@ -1,2 +1,2 @@
-# MAPLE
-Repository for the paper “MAPLE: Enhancing LLM-driven word problem solving with knowledge points and semantic situations”
+# MSolver-KS
+Repository for the paper “MSolver-KS: Enhancing LLM-driven Math Word Problem Solving With Knowledge Points And Semantic Situations”
